@@ -1,14 +1,3 @@
-# Nitro Nation
-It is the first University project of my bachelor's life which i've made using igraphics the languages used are c and c++.This is basically a 2d racing game
-Here's a clean, professional, and **ready-to-paste `README.md`** for your GitHub project:
-👉 [`Nitro-Nation`](https://github.com/aryanahnaf06/Nitro-Nation)
-
-Assuming it's a **car racing or automobile-themed website** (based on the name and common usage), I've written a general-purpose description. You can tweak the feature list if needed.
-
----
-
-### ✅ Final `README.md` (copy everything below):
-
 ```markdown
 # 🚗 Nitro Nation
 
@@ -36,7 +25,6 @@ Assuming it's a **car racing or automobile-themed website** (based on the name a
 - **Responsive Design** – Media queries for multi-device support
 
 ---
-```
 
 ````
 
@@ -75,24 +63,10 @@ Assuming it's a **car racing or automobile-themed website** (based on the name a
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 🌟 Support
 
 If you like this project, don’t forget to ⭐ the repository and share it with others!
 
-```
-
----
-
-### 🔧 Optional Next Steps:
-- Add a screenshot to `assets/images/` and update the preview section.
-- Create a `LICENSE` file if you haven't already.
-- Add an interactive demo (e.g., GitHub Pages).
-
-Let me know if this project has **PHP, backend, or database** parts — I’ll customize the README accordingly.
 ```
